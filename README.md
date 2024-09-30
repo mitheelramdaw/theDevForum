@@ -73,4 +73,6 @@ expo start -c
 
 
 - If the scan doesn't work, type in the address manually
-- Wait for the loading to complete in the temrinal 
+- Wait for the loading to complete in the temrinal
+
+- Close ExpoGo on phone to scan again for new scan (changed dirctories/repos/etc)
