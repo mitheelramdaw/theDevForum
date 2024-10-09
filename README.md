@@ -76,3 +76,15 @@ expo start -c
 - Wait for the loading to complete in the temrinal
 
 - Close ExpoGo on phone to scan again for new scan (changed dirctories/repos/etc)
+
+Updating expo version
+
+```bash
+npm install expo@~51.0.37
+```
+
+or
+
+```bash
+yarn add expo@~51.0.37
+```
